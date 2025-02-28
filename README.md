@@ -1,13 +1,13 @@
-# Akei
+# Office
 
-Office est une application mobile basique, elle permet d'ajouter, chercher et supprimer des projets.
+Office est une application mobile basique, elle permet d'ajouter, chercher et supprimer des produits.
 
 ## Installation
 
 ### 1. Cloner le dépôt
 ```sh
 git clone https://github.com/EnzoFantapieHamang/Office-mobile-java.git
-cd Akei-java-Mobile-Application
+cd Office-mobile-java
 ```
 
 ### 2. Ouvrir le projet
